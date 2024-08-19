@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1723325924845,
+      "tag": "0000_elite_selene",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1723356505051,
+      "tag": "0001_strange_miracleman",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1723595308268,
+      "tag": "0002_light_ken_ellis",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1723635082725,
+      "tag": "0003_jazzy_thunderbolts",
+      "breakpoints": true
+    }
+  ]
+}
